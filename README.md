@@ -7,3 +7,8 @@ print('Hello World!')
 
 ### heading3
 ##### h4
+
+
+** Progress**: 1234
+
+**Thoughts:** 3456
