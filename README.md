@@ -9,6 +9,6 @@ print('Hello World!')
 ##### h4
 
 
-** Progress**: 1234
+**Today**: 1234
 
 **Thoughts:** 3456
